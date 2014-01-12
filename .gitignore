@@ -21,7 +21,6 @@ local.properties
 ###Eclipse###
 
 *.pydevproject
-.project
 .metadata
 bin/**
 tmp/**
@@ -31,7 +30,6 @@ tmp/**/*
 *.swp
 *~.nib
 local.properties
-.classpath
 .settings/
 .loadpath
 
@@ -78,7 +76,6 @@ bin-release/
 .actionScriptProperties
 .flexProperties
 .settings/
-.project
 
 ###OSX###
  
